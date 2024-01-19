@@ -2,14 +2,14 @@ let name1 = "garv";
 let name2 = "shubham";
 let name3= "meet";
 let name4 = "harsh";
-let greettext = "Good Mourning"// for line number 25
+let greettext = "Good Mourning";// for line number 25
 
 console.log(name1 + " is a good boy.");
 console.log(name2 + " is a good boy.");
 console.log(name3 + " is a good boy.");
 console.log(name4 + " is a good boy.");
 
-console.log("this is javascript.")
+console.log("this is javascript.");
 //same same but different
 //short and sweet style to write greet function
 
