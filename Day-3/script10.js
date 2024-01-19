@@ -10,7 +10,7 @@ console.log("*******************************************************************
 //you can use 1 from this 3 ways to print arrays
 
 //classical for loop use many years before
-let friends = ["rohan", "sanjiv", "dipti", "pooja", "garry"]
+let friends = ["rohan", "sanjiv", "dipti", "pooja", "garry"];
 for (let index = 0; index < friends.length; index++) {
     console.log("hello  friend, " + friends[index]);
 }
