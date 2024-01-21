@@ -24,3 +24,14 @@ I learn --
             <li>If-else Conditionals & Switch Case in JavaScript</li>
             <li>week days using switch Case</li>
             <li>Arrays & Objects in JavaScript</li>
+
+            <br>
+<br>
+Day-3 report
+<br>
+I learn --
+<div>
+        <ul>
+            <li>Functions in JavaScript</li>
+            <li>JavaScript Tutorial: Interaction - Alert, Prompt, Confirm</li>
+            <li>JavaScript Tutorial: for, while, forEach, Do While Loops</li>
