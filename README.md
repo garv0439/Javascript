@@ -25,7 +25,7 @@ I learn --
             <li>week days using switch Case</li>
             <li>Arrays & Objects in JavaScript</li>
 
-            <br>
+<br>
 <br>
 Day-3 report
 <br>
