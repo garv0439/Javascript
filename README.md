@@ -35,3 +35,14 @@ I learn --
             <li>Functions in JavaScript</li>
             <li>JavaScript Tutorial: Interaction - Alert, Prompt, Confirm</li>
             <li>JavaScript Tutorial: for, while, forEach, Do While Loops</li>
+
+            <br>
+<br>
+Day-4 report
+<br>
+I learn --
+<div>
+        <ul>
+            <li>JavaScript Tutorial: for, while, forEach, Do While Loops</li>
+            <li>JavaScript Tutorial: Navigating The DOM</li>
+
