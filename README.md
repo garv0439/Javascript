@@ -33,8 +33,8 @@ I learn --
 <div>
         <ul>
             <li>Functions in JavaScript</li>
-            <li>JavaScript Tutorial: Interaction - Alert, Prompt, Confirm</li>
-            <li>JavaScript Tutorial: for, while, forEach, Do While Loops</li>
+            <li>Interaction - Alert, Prompt, Confirm</li>
+            <li>For and ForEach Loops</li>
 
  <br>
 <br>
@@ -43,6 +43,6 @@ Day-4 report
 I learn --
 <div>
         <ul>
-            <li>JavaScript Tutorial: for, while, forEach, Do While Loops</li>
-            <li>JavaScript Tutorial: Navigating The DOM</li>
+            <li>For, While, Do While Loops</li>
+            <li>Navigating The DOM</li>
 
