@@ -53,3 +53,4 @@ I learn --
 <div>
         <ul>
             <li>Events & Listening to Events[function togglehide]</li>
+            <li>Events & Listening to Events[mouseover/mouseout with ALERT]</li>       
