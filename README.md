@@ -55,3 +55,13 @@ I learn --
             <li>Events & Listening to Events[function togglehide]</li>
             <li>Events & Listening to Events[mouseover/mouseout with ALERT]</li>       
             <li>setTimeOut/clearTimeout with function greet</li>
+ <br>
+<br>
+Day-5 report
+<br>
+I learn --
+<div>
+        <ul>
+            <li>Events & Listening to Events[function togglehide]</li>
+            <li>Events & Listening to Events[mouseover/mouseout with ALERT]</li>       
+            <li>setTimeOut/clearTimeout with function greet</li>
