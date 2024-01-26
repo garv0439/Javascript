@@ -63,4 +63,4 @@ I learn --
 <div>
         <ul>
             <li>setInterval[displayTime]</li>
-            <li>Events & Listening to Events[mouseover/mouseout with ALERT]</li>       
+            <li>Date & Time In JavaScript with css</li>       
