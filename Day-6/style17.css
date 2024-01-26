@@ -1,0 +1,12 @@
+.container{
+    font-size: 23px;
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 34px;
+    margin: 4px;
+    text-align: center;
+}
+#time{
+    font-weight: bold;
+    color: brown;
+}
