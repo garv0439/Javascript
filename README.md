@@ -62,6 +62,5 @@ Day-6 report
 I learn --
 <div>
         <ul>
-            <li>Events & Listening to Events[function togglehide]</li>
+            <li>setInterval[displayTime]</li>
             <li>Events & Listening to Events[mouseover/mouseout with ALERT]</li>       
-            <li>setTimeOut/clearTimeout with function greet</li>
