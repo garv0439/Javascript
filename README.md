@@ -72,4 +72,4 @@ I learn --
 <div>
         <ul>
             <li>Arrow Functions In JavaScript</li>
-            <li>Date & Time In JavaScript with css</li>       
+            <li>prints the objects/functions from math objects/ceil and floor/absolute functions/trigonometric functions</li>       
