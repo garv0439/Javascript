@@ -64,3 +64,12 @@ I learn --
         <ul>
             <li>setInterval[displayTime]</li>
             <li>Date & Time In JavaScript with css</li>       
+ <br>
+<br>
+Day-6 report
+<br>
+I learn --
+<div>
+        <ul>
+            <li>setInterval[displayTime]</li>
+            <li>Date & Time In JavaScript with css</li>       
