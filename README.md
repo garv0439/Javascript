@@ -75,7 +75,7 @@ I learn --
             <li>prints the objects/functions from math objects/ceil and floor/absolute functions/trigonometric functions</li>       
             <li>Generating random number and min/max.</li>
 
-Day-7 report
+Day-8 report
 <br>
 I learn --
 <div>
