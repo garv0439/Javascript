@@ -83,3 +83,12 @@ I learn --
         <ul>
             <li>Working with JSON in JavaScript</li>
             <li>Digital Clock</li>
+<br>
+<br>
+Day-8 report
+<br>
+I learn --
+<div>
+        <ul>
+            <li>Working with JSON in JavaScript</li>
+            <li>Digital Clock</li>
