@@ -91,5 +91,5 @@ I learn --
 <div>
         <ul>
             <li>projects
-              <h1>THEME SWITCHER</h1></li>
+              <h3>THEME SWITCHER</h3></li>
           
