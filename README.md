@@ -90,5 +90,6 @@ Day-9 report
 I learn --
 <div>
         <ul>
-            <li>project</li>
-            <h1>THEME SWITCHER</h1>
+            <li>projects
+              <h1>THEME SWITCHER</h1></li>
+          
