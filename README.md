@@ -101,5 +101,5 @@ I learn --
 <div>
         <ul>
             <li>project=>
-              <h3>THEME SWITCHER</h3></li>
+              <h3></h3></li>
           
