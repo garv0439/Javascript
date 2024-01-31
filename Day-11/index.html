@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creating a CheatSheet Template using HTML, CSS & JavaScript</title>
+</head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Potta+One&family=Roboto:wght@100&display=swap"
+    rel="stylesheet">
+    <link rel="stylesheet" href="prism.css"> <!--find prism on google and download it for css-->
+<link rel="stylesheet" href="style.css">
+<body>
+    <nav>
+        <span class="logo"><img src="copy.png" alt=""></span>
+        <div class="content center">
+            This is HTML CheatSheet.
+            <span class="logo"><img src="copy.svg" alt=""></span>
+        </div>
+    </nav>
+    <div class="container">
+        <ol>
+            <li>HTML Boilerplate=>This is basic Html Code.
+                <!--ctrl-h for find and replace"<"=&lt; and ">"=&gt; -->
+                <pre class="language-html"><code>&lt;!DOCTYPE html&gt;
+                    &lt;html lang="en"&gt;
+                    &lt;head&gt;
+                        &lt;meta charset="UTF-8"&gt;
+                        &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+                        &lt;title&gt;Document&lt;/title&gt;
+                    &lt;/head&gt;
+                    &lt;body&gt;
+                        
+                    &lt;/body&gt;
+                    &lt;/html&gt;</code></pre>
+            </li> 
+            <li>CSS Boilerplate=>This is basic CSS Code.
+                <pre class="language-css"><code>.container {
+                    /* background-color: red; */
+                    width: 50vw;
+                    padding: 32px 0;
+                    margin: auto;
+                    font-family: 'Roboto', sans-serif;
+                    font-weight: bold;
+                }</code></pre>
+            </li> 
+            <li>HTML Boilerplate=>This is basic Html Code.
+                <pre class="language-js"><code>setInterval(() => {
+                    d = new Date();
+                    htime = d.getHours();
+                    mtime = d.getMinutes();
+                    stime = d.getSeconds();
+                    hrotation = 30*htime + mtime/2;
+                    mrotation = 6*mtime;
+                    srotation = 6*stime;
+                
+                    hour.style.transform = `rotate(${hrotation}deg)`;
+                    minute.style.transform = `rotate(${mrotation}deg)`;
+                    second.style.transform = `rotate(${srotation}deg)`;
+                }, 1000);</code></pre>
+            </li> 
+        </ol>
+    </div>
+</body>
+<script src="prism.js"></script><!--find prism on google and download it for js-->
+<script src="script.js"></script>
+</html>
