@@ -120,5 +120,4 @@ I learn --
 <div>
         <ul>
             <li>project=>
-              <h3>
-Car Animation CSS and JavaScript</h3></li>
+              <h3>Car Animation CSS and JavaScript</h3></li>
