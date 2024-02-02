@@ -1,0 +1,53 @@
+*{
+    background-color: lightgreen;
+}
+
+.garv {
+    display: flex;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 0rem;
+    margin-top: 227px;
+    margin-left: 4vh;
+}
+
+.container {
+    display: flex;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 4rem;
+    margin-top: 90px;
+    margin-left: 53px;
+}
+ #boy{
+    width: 89px;
+ }
+h1{
+    background-color: lightcyan;
+    border: 2px solid red;
+}
+ button {
+    background-color: darkgray;
+     border: 4px solid goldenrod;
+     padding: 13px;
+     text-align: center;
+     justify-content: center;
+     margin: 3px ;
+     width: 79px;
+     font-weight: bold;
+ }
+ #item2:hover{
+    /* transform: rotate(360deg); */
+    /* transform: skew(360deg); */
+    /* transform: scale(2); */
+    /* transform: translateX(250px); */
+    /* transform: translateY(120px); */
+    transform: translate(250px,15px);
+}
+.copy {
+    border: 2px solid gold;
+    background-color: black;
+    color: aliceblue;
+    /* padding: 1px 2px; */
+    width: 75.2vh;
+    text-align: center;
+    margin: 135px 0;
+}

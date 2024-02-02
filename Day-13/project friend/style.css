@@ -1,0 +1,57 @@
+*{
+    background-color: lightgreen;
+}
+body{
+    overflow: hidden;
+}
+.garv {
+    display: flex;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 2rem;
+    margin-top: 250px;
+    margin-left: 80vh;
+
+}
+.container {
+     display: flex;
+     grid-template-columns: repeat(5, auto);
+     grid-gap: 2rem;
+     margin-top: 80px;
+     margin-left: 530px;
+     
+ }
+ #boy{
+    width: 144px;
+ }
+h1{
+    background-color: lightcyan;
+    border: 2px solid red;
+}
+ button {
+     background-color: darkgray;
+     border: 13px solid goldenrod;
+     padding: 13px;
+     text-align: center;
+     justify-content: center;
+     margin: 3px ;
+     width: 200px;
+     font-weight: bold;
+ }
+ #item2:hover{
+    /* transform: rotate(360deg); */
+    /* transform: skew(360deg); */
+    /* transform: scale(2); */
+    /* transform: translateX(250px); */
+    /* transform: translateY(120px); */
+    transform: translate(250px,15px);
+
+}
+.copy{
+    border: 2px solid gold;
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+    width: 217.2vh;
+    text-align: center;
+    margin: 90px 0;
+}
