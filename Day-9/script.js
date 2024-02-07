@@ -1,29 +1,47 @@
-let switches = document.getElementsByClassName('switch');
 
-let style = localStorage.getItem('style');
 
-if (style == null) {
-  setTheme('light');
-} else {
-  setTheme(style);
-}
+console.log("garv")
+const buttons = document.querySelectorAll('.button');
+const body = document.querySelector('body');
+const texts = document.querySelector('.text');
+const header1 = document.querySelector('h1');
+const header2 = document.querySelector('h2');
+const header3 = document.querySelector('h3');
 
-for (let i of switches) {
-  i.addEventListener('click', function () {
-    let theme = this.dataset.theme;
-    setTheme(theme);
+buttons.forEach(function (button) {
+  console.log(button);
+  button.addEventListener('click', function (event) {
+    console.log(event);
+    console.log(event.target);
+    if (event.target.id === 'gray') {
+      body.style.backgroundColor = event.target.id;
+      texts.style.color = 'lightgreen'
+      header1.style.color = 'black'
+      header2.style.color = 'gold'
+      header3.style.color = 'blue'
+    }
+    if (event.target.id === 'white') {
+      body.style.backgroundColor = event.target.id;
+      texts.style.color = 'blue'
+      header1.style.color = 'black'
+      header2.style.color = 'red'
+      header3.style.color = 'gray'
+    }
+    if (event.target.id === 'blue') {
+      body.style.backgroundColor = event.target.id;
+      texts.style.color = 'yellow'
+      header1.style.color = 'green'
+      header2.style.color = 'black'
+      header3.style.color = 'lightblue'
+    }
+    if (event.target.id === 'black') {
+      body.style.backgroundColor = event.target.id;
+      texts.style.color = 'red'
+      header1.style.color = 'green'
+      header2.style.color = 'gold'
+      header3.style.color = 'lightblue'
+    }
+
   });
-}
+});
 
-function setTheme(theme) {
-  if (theme == 'light') {
-    document.getElementById('switcher-id').href = 'Day-9\themes\light.css';
-  } else if (theme == 'sky') {
-    document.getElementById('switcher-id').href = 'Day-9\themes\sky.css';
-  } else if (theme == 'purple') {
-    document.getElementById('switcher-id').href = 'Day-9\themes\purple.css';
-  } else if (theme == 'dark') {
-    document.getElementById('switcher-id').href = 'Day-9\themes\dark.css';
-  }
-  localStorage.setItem('style', theme);
-}
