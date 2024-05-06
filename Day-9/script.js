@@ -47,7 +47,7 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = 'rgb(72, 255, 48)';
       texts.style.color = 'black'
       header1.style.color = 'red'
-      header2.style.color = 'rgb(72, 255, 48)'
+      header2.style.color = 'black'
       header3.style.color = 'darkblue'
     }
 
