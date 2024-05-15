@@ -13,7 +13,7 @@ I learn --
       
 <br>
 <br>
-Day-2 report
+<h2>Day-2 report
 <br>
 I learn --
 <div>
@@ -25,7 +25,7 @@ I learn --
 
 <br>
 <br>
-Day-3 report
+<h2>Day-3 report
 <br>
 I learn --
 <div>
@@ -36,7 +36,7 @@ I learn --
 
  <br>
 <br>
-Day-4 report
+<h2>Day-4 report
 <br>
 I learn --
 <div>
@@ -45,7 +45,7 @@ I learn --
             <li>Navigating The DOM</li>
  <br>
 <br>
-Day-5 report
+<h2>Day-5 report
 <br>
 I learn --
 <div>
@@ -55,7 +55,7 @@ I learn --
             <li>setTimeOut/clearTimeout with function greet</li>
  <br>
 <br>
-Day-6 report
+<h2>Day-6 report
 <br>
 I learn --
 <div>
@@ -64,7 +64,7 @@ I learn --
             <li>Date & Time In JavaScript with css</li>       
  <br>
 <br>
-Day-7 report
+<h2>Day-7 report
 <br>
 I learn --
 <div>
@@ -74,7 +74,7 @@ I learn --
             <li>Generating random number and min/max.</li>
  <br>
 <br>
-Day-8 report
+<h2>Day-8 report
 <br>
 I learn --
 <div>
@@ -83,7 +83,7 @@ I learn --
             <li>Digital Clock</li>
 <br>
 <br>
-Day-9 report
+<h2>Day-9 report
 <br>
 I learn --
 <div>
@@ -93,7 +93,7 @@ I learn --
           
 <br>
 <br>
-Day-10 report
+<h2>Day-10 report
 <br>
 I learn --
 <div>
@@ -103,7 +103,7 @@ I learn --
           
 <br>
 <br>
-Day-11 report
+<h2>Day-11 report
 <br>
 I learn --
 <div>
@@ -113,7 +113,7 @@ I learn --
 
 <br>
 <br>
-Day-12 report
+<h2>Day-12 report
 <br>
 I learn --
 <div>
@@ -122,7 +122,7 @@ I learn --
               <h3>Car Animation CSS and JavaScript</h3></li>
 <br>
 <br>
-Day-13 report
+<h2>Day-13 report
 <br>
 I learn --
 <div>
@@ -132,7 +132,7 @@ I learn --
               <h3>2] Project Love</h3></li>
 <br>
 <br>
-Day-14 report
+<h2>Day-14 report
 <br>
 I learn --
 <div>
