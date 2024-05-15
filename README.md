@@ -1,6 +1,5 @@
 # Javascript
 <br>
-coder=Garv Kadia
 <br>
 <br>
 Day-1 report
