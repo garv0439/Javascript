@@ -1,8 +1,7 @@
 # Javascript
 <br>
 <br>
-<br>
-Day-1 report
+<h2>Day-1 report</h2>
 <br>
 I learn --
 <div>
